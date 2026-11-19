@@ -1,0 +1,7 @@
+{
+  "name": "AlmaLinux 9",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root"
+}
